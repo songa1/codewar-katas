@@ -1,0 +1,11 @@
+
+section {
+    width: 100%;
+}
+.article {
+    width: 50%;
+    margin: 10px auto;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
