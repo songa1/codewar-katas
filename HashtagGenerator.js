@@ -17,4 +17,4 @@ function generateHashtag(str) {
   }
 }
 
-generateHashtag("guru   works") 
+generateHashtag("guru works") 
